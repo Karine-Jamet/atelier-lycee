@@ -1,5 +1,7 @@
 # atelier-lycee
 
+http://karine-jamet.github.io/atelier-lycee/
+
 Etape 1: Structure
 </br>
 Doctype html head meta body title link(css) link(js)
